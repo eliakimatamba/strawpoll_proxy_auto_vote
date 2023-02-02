@@ -10,13 +10,13 @@ source venv/bin/activate
 Usage: ```auto_vote.py -h```
 
 Usage: ```python auto_vote.py -v 150 -s 05ZdW1mabg6 -t 3RnYLkkBAye```
-# -s survery is extracted from the url id, strawpoll.com/05ZdW1mabg6 and 
-# -t target is extracted from page inspection, in the html similar to 
-# :disabled="optionsLimitReached() && !checkedOptions.includes('3RnYLkkBAye')
+#-s survery is extracted from the url id, strawpoll.com/05ZdW1mabg6 and 
+#-t target is extracted from page inspection, in the html similar to 
+#:disabled="optionsLimitReached() && !checkedOptions.includes('3RnYLkkBAye')
 ```
 pip install requests
 ```
-# You are ready to roll
+#You are ready to roll
 
 
 In case you happen to have your proxies in ```txt`` file formats, you can easily merge all your
@@ -27,4 +27,4 @@ e.g
 ```
 ./txt2xml proxy1.txt proxy2.txt ...
 ``` 
-# Whose output would be ```proxies.xml```, from which auto_vote.py reads.
+#Whose output would be ```proxies.xml```, from which auto_vote.py reads.
