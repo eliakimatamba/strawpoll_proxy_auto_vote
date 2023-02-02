@@ -29,4 +29,4 @@ e.g
 ``` 
 Whose output would be ```proxies.xml```, from which auto_vote.py reads.
 
-&copy;[Atamba](eliakimatamba.github.io)
+&copy;[Atamba](https://eliakimatamba.github.io)
