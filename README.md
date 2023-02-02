@@ -7,8 +7,7 @@ python3 -m venv venv
 ```
 source venv/bin/activate
 ```
-echo "Usage: auto_vote.py -h
-```
+Usage: ```auto_vote.py -h```
 
 Usage: ```python auto_vote.py -v 150 -s 05ZdW1mabg6 -t 3RnYLkkBAye```
 # -s survery is extracted from the url id, strawpoll.com/05ZdW1mabg6 and 
