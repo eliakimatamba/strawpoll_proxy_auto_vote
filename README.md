@@ -1,3 +1,4 @@
+Set up by runing ```sh ./setup.sh```. You can also follow along this:
 ```
 sudo apt install python3-venv
 ```
